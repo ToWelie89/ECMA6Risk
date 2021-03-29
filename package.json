@@ -87,7 +87,7 @@
     "izitoast": "^1.4.0",
     "jquery": "^2.2.4",
     "moment": "^2.29.1",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "utf-8-validate": "^5.0.4"
   },
   "devDependencies": {
