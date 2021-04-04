@@ -52,7 +52,7 @@ const MAPS = [
         name: 'Extended world map',
         regions: worldMapExtended.regions.length,
         territories: worldMapExtended.regions.reduce((accumulator, currentValue) => accumulator.concat(currentValue.territories), []).length,
-        description: 'An extended version of the classic world map configuration with additional territories and pahts between regions'
+        description: 'An extended version of the classic world map configuration with additional territories and paths between regions'
     }, {
         id: 'NAPOLEONIC_EUROPE_MAP',
         mainMap: './assets/maps/napoleonicEurope/napoleonMap.svg',
